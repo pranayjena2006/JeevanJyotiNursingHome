@@ -30,18 +30,13 @@ export function ContactSection() {
               </div>
             </div>
             <div className="flex flex-col gap-2">
-              <Button className="w-full justify-start gap-2" variant="outline" asChild>
+              <Button className="w-full justify-start gap-2" asChild>
                 <a href="tel:06655222999">
                   <Phone className="h-4 w-4" />
                   06655 222 999
                 </a>
               </Button>
-              <Button className="w-full justify-start gap-2" asChild>
-                <a href="tel:+916655222999">
-                  <Phone className="h-4 w-4" />
-                  +91 6655 222 999
-                </a>
-              </Button>
+
             </div>
           </div>
 
