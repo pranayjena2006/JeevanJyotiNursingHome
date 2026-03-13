@@ -59,7 +59,7 @@ export function Footer() {
         {/* Divider */}
         <div className="border-t border-background/20 pt-6">
           <p className="text-center text-xs text-background/60">
-            {currentYear} Jeevan Jyoti Nursing Home. All rights reserved.
+            {currentYear} Under development by PRANAY JENA
           </p>
         </div>
       </div>
