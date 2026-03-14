@@ -38,7 +38,7 @@ export function HeroSection() {
               className="w-full sm:w-auto text-base py-6 px-8 gap-2"
               asChild
             >
-              <a href="tel:+916655222999">
+              <a href="tel:06655222999">
                 <Phone className="h-5 w-5" />
                 Call Now
               </a>
